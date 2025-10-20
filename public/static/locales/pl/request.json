@@ -1,0 +1,17 @@
+{
+  "new": "Nowy",
+  "isConsidered": "Rozpatrywane",
+  "closed": "Zamknięte",
+  "successful": "Zrealizowane",
+  "title": "Złóż zapytanie",
+  "description": "Możesz złożyć zapytanie, a my postaramy się znaleźć potrzebny towar w krajach Unii Europejskiej w najkrótszym czasie.",
+  "contactInfo": "Dane kontaktowe",
+  "name": "Imię",
+  "phone": "Telefon",
+  "email": "E-mail",
+  "article": "Towar",
+  "articleLink": "Link do towaru lub nazwa/numer artykułu",
+  "articleComment": "Komentarz do towaru",
+  "addArticle": "Dodaj towar",
+  "send": "Wyślij"
+}

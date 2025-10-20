@@ -1,0 +1,17 @@
+{
+  "new": "New",
+  "isConsidered": "Under Consideration",
+  "closed": "Closed",
+  "successful": "Successful",
+  "title": "Submit Request",
+  "description": "You can submit a request, and we will try to find the necessary product in the countries of the European Union as soon as possible.",
+  "contactInfo": "Contact Information",
+  "name": "Name",
+  "phone": "Phone",
+  "email": "Email",
+  "article": "Product",
+  "articleLink": "Link to the product or product name/article",
+  "articleComment": "Product Comment",
+  "addArticle": "Add Product",
+  "send": "Submit"
+}

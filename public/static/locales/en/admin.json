@@ -1,0 +1,11 @@
+{
+  "createdDate": "Date",
+  "user": "User",
+  "phoneNumber": "Phone Number",
+  "city": "City",
+  "post": "Post",
+  "comment": "Comment",
+  "articles": "Product",
+  "status": "Status",
+  "orderNumber": "Order #"
+}

@@ -1,0 +1,12 @@
+{
+  "userData": "Dane osobowe",
+  "firstName": "Imię",
+  "lastName": "Nazwisko",
+  "email": "E-mail",
+  "phone": "Numer telefonu",
+  "city": "Miasto",
+  "post": "Oddział Nowej Poczty",
+  "messengers": "Komunikatory do kontaktu",
+  "userName": "Nazwa użytkownika",
+  "save": "Zapisz"
+}

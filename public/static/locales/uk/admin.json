@@ -1,0 +1,11 @@
+{
+  "createdDate": "Дата створення",
+  "user": "Користувач",
+  "phoneNumber": "Номер телефону",
+  "city": "Місто",
+  "post": "Пошта",
+  "comment": "Коментар",
+  "articles": "Товари",
+  "status": "Статус",
+  "orderNumber": "№"
+}

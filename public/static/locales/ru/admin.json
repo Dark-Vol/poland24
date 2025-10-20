@@ -1,0 +1,11 @@
+{
+  "createdDate": "Дата",
+  "user": "Пользователь",
+  "phoneNumber": "Номер телефона",
+  "city": "Город",
+  "post": "Почта",
+  "comment": "Комментарий",
+  "articles": "Товар",
+  "status": "Статус",
+  "orderNumber": "№"
+}

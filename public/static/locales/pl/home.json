@@ -1,0 +1,15 @@
+{
+  "aboutTitle": "O nas",
+  "aboutSubtitle": "7 lat doświadczenia w logistyce towarów z Europy do Ukrainy. Przeszliśmy długą drogę - wiemy, jak dostarczać towary w najkrótszym czasie przy odpowiednim serwisie.",
+  "aboutDescription": "Firma Poland24 dostarcza towary z dowolnego sklepu internetowego z Polski i Unii Europejskiej. Pomożemy Ci zakupić interesujący produkt i dostarczyć go do Ukrainy w najkrótszym czasie. Oferujemy również usługę wyszukiwania potrzebnego towaru według numeru artykułu lub nazwy.",
+  "aboutDetail": "Więcej informacji",
+  "storesTitle": "Katalog sklepów",
+  "calculatorTitle": "Oblicz koszt dostawy towarów z Polski",
+  "calculatorListItem1": "Prowizja serwisu dla towarów z fakturą VAT o wartości od",
+  "calculatorListItem2": "Prowizja serwisu dla towarów o wartości do",
+  "calculatorListItem3": "Prowizja serwisu dla towarów bez faktury VAT o wartości od 50€: 15%",
+  "calculatorPrice": "Cena",
+  "calculatorDelivery": "Dostawa",
+  "vat": "Dla towarów (nowych lub używanych) bez wystawionej faktury VAT (dodatkowa prowizja 15%)",
+  "send": "Oblicz"
+}

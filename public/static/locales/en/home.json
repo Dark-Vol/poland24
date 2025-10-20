@@ -1,0 +1,15 @@
+{
+  "aboutTitle": "About Us",
+  "aboutSubtitle": "7 years in the field of logistics for goods from Europe to Ukraine. We have come a long way - we know how to deliver goods in the shortest possible time with proper service.",
+  "aboutDescription": "Poland24 delivers goods from any online store in Poland and the European Union. We will help you purchase the desired product and deliver it to Ukraine in the shortest possible time. We also provide a service to find the necessary product by article or name.",
+  "aboutDetail": "Learn More",
+  "storesTitle": "Store Catalog",
+  "calculatorTitle": "Calculate the cost of delivering goods from Poland",
+  "calculatorListItem1": "Service commission for goods with a VAT invoice costing from",
+  "calculatorListItem2": "Service commission for goods costing up to",
+  "calculatorListItem3": "Service commission for goods without a VAT invoice costing from €50: 15%",
+  "calculatorPrice": "Price",
+  "calculatorDelivery": "Delivery",
+  "vat": "No VAT invoice is issued for the product (new or used) (15% commission is added)",
+  "send": "Calculate"
+}
